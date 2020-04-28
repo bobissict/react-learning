@@ -4,9 +4,11 @@ Messing around with react concepts and other usefull libraries in the eco system
 
 ## React Toolchains
 
-- Create React App
-- Gatsby
-- Next.js
+For the purpose of this playground I will be using the create-react-app toolchain. In future I will setup seperate repos for the other toolchains listed.
+
+- Create React App - single page apps
+- Gatsby - static generated websites
+- Next.js - server rendered apps
 
 ## React Concepts
 
