@@ -31,3 +31,7 @@ Create React App is a super quick way to setup a new react app with all the opin
 - Render Props
 - Hooks
 - Testing
+
+## Random
+
+- Added standard gitignore file to repo
