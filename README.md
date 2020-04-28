@@ -1,4 +1,4 @@
-# React Playground
+# React Learning
 
 Messing around with react concepts and other usefull libraries in the eco system 🤓 Also trying to document any usefull/reusable stuff I find along the way.
 
