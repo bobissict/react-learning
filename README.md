@@ -10,6 +10,13 @@ For the purpose of this playground I will be using the create-react-app toolchai
 - Gatsby - static generated websites
 - Next.js - server rendered apps
 
+### Create React App
+
+Create React App is a super quick way to setup a new react app with all the opinionated dev environment stuff from the React team. The documentation is really good so no need to expand on it further than the link below.
+
+🔗 https://github.com/facebook/create-react-app
+
+
 ## React Concepts
 
 - Code Splitting
