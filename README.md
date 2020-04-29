@@ -21,7 +21,7 @@ Create React App is a super quick way to setup a new react app with all the opin
 
 - [Code Splitting](/code-splitting.md)
 - Context
-- Error Boundaries
+- [Error Boundaries](/error-boundaries.md)
 - Forwarding Refs
 - Fragments - done
 - Higher Order Components
