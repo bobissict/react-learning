@@ -16,9 +16,10 @@ https://github.com/wesbos/eslint-config-wesbos
 - eslint-plugin-react
 - eslint-plugin-react-hooks
 - eslint-plugin-prettier
+- prettier
 
 ```
-yarn add eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jest eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-prettier
+yarn add eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jest eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-prettier prettier
 ```
 
 ## ESLint config
