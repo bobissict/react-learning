@@ -1,8 +1,8 @@
 # Code Splitting
 
-For code splitting we can use React.lazy. The React.lazy function lets you render a dynamic import as a regular component.
-
 🔗 Documentation: https://reactjs.org/docs/code-splitting.html
+
+For code splitting we can use React.lazy. The React.lazy function lets you render a dynamic import as a regular component.
 
 ⚠️
  This will not work for server rendered apps. For server rendered apps use [Loadable Components](https://github.com/gregberge/loadable-components).
