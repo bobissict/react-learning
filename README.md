@@ -38,6 +38,7 @@ Create React App is a super quick way to setup a new react app with all the opin
 - React Router
 - Storybook
 - Styled Components
+- React Helmet
 
 ## Random
 
