@@ -42,4 +42,5 @@ Create React App is a super quick way to setup a new react app with all the opin
 
 ## Random
 
+- [ESLint](eslint.md)
 - Added standard gitignore file to repo
