@@ -1,5 +1,7 @@
 # Error Boundaries
 
+Documentation 🔗: https://reactjs.org/docs/error-boundaries.html
+
 If you do not have any error boundaries within your app, when something breaks the whole UI would break. For this reason React introduced the concept of error boundaries.
 
 Error boundaries catch any errors in their child component tree, log these errors and display a fallback ui. Errors are caught during rendering, in lifecycle methods and in constructors of the whole tree below them.
@@ -12,8 +14,6 @@ Error boundaries do **not** catch errors for:
 - Errors thrown in the error boundary itself (rather than its children)
 
 Error boundaries work like a JavaScript catch {} block, but for components. Only class components can be error boundaries. Most of the time you’ll want to declare an error boundary component once and use it throughout your application.
-
-Documentation 🔗: https://reactjs.org/docs/error-boundaries.html
 
 ## Error Boundary Components
 
