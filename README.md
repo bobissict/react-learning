@@ -19,7 +19,7 @@ Create React App is a super quick way to setup a new react app with all the opin
 
 ## React Concepts
 
-- Code Splitting
+- [Code Splitting](/code-splitting.md)
 - Context
 - Error Boundaries
 - Forwarding Refs
