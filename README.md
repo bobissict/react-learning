@@ -32,6 +32,13 @@ Create React App is a super quick way to setup a new react app with all the opin
 - Hooks
 - Testing
 
+## React Toolkit
+
+- Redux
+- React Router
+- Storybook
+- Styled Components
+
 ## Random
 
 - Added standard gitignore file to repo
